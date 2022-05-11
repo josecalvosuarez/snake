@@ -1,8 +1,6 @@
-# SFML Game Development By Example
-This is the books code, fixedand made runnable for linux
+# Laboratorio de sistemas operativos
+Compile el juego utilizando librerías estáticas en ambiente Linux
 
-## Build (Linux)
-To build, go to the source code and run ```./build.sh```. I will write some CMakeLists later.
+* La información de la descarga y cómo configurar SFML la encuentran acá:
 
-After that, you get the executable named *main*
-
+    https://www.sfml-dev.org/index.php
